@@ -12,11 +12,7 @@ xray panel supporting multi-protocol, **Multi-lang (English,Chinese)**, **IP Res
 
 **If you think this project is helpful to you, you may wish to give a** :star2: 
 
-**Feel Free for Donation :** :heart:
 
-USDT TRC20: `TDam6uh8ctLJuz8Y3rRk4t5pLikQvtpvJE`
-
-Ether ETH: `0x256ddA590c35638fA4B3a25Ec4544Db087ceE826`
 
 # Features
 
@@ -208,6 +204,3 @@ First install the latest version of x-ui on the server where v2-ui is installed,
 x-ui v2-ui
 ```
 
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/wilbernight/x-ui.svg)](https://starchart.cc/wilbernight/x-ui)
